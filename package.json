@@ -1,0 +1,33 @@
+{
+  "name": "ionopi",
+  "version": "1.0.0",
+  "description": "An nodejs wrapper for Sferalabs Ionopi ( tested on Raspbian Strech Lite )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rofavadeka/ionopi.git"
+  },
+  "keywords": [
+    "RaspberryPi",
+    "Sferalabs",
+    "Iono",
+    "Ionopi",
+    "Io",
+    "Rpio",
+    "Analog",
+    "RTC",
+    "Wiegand",
+    "Raspbian",
+    "Strech"
+  ],
+  "author": "Rolf van der Kaaden <ik@rolfvanderkaaden.nl> (http://rolfvanderkaaden.nl)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rofavadeka/ionopi/issues"
+  },
+  "homepage": "https://github.com/rofavadeka/ionopi#readme",
+  "install": "bash install.sh"
+}
